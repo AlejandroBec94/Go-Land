@@ -26,4 +26,6 @@ func main()  {
 
 	fmt.Println(entero32+int32(entero64))
 
+	fmt.Println(len(nombre))
+
 }
